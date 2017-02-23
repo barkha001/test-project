@@ -44,7 +44,7 @@
 /**
  * Simple class for our unit tests.
  */
-class Calculator {
+class Calculator12 {
 
     public function plus($a, $b) {
         return $a + $b;
